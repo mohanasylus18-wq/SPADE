@@ -1,0 +1,1 @@
+spade is a digital journalist and news application designed to help users discover, read, search, and save news articles.
